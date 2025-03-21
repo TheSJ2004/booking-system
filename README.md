@@ -56,6 +56,5 @@ minikube start --driver=docker
 1. https://github.com/hamony/reservation-service
 2. https://github.com/hamony/external-service
 
-## Contact
-I'm a software engineer, please contact me via email: khoa.zamioza@gmail.com or Linkedin https://www.linkedin.com/in/khoa-nguyen-software-engineer feel free to ask me.
+
 
